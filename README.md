@@ -1,16 +1,22 @@
-## Hi there 👋
+## Well, hello there 👋
 
-<!--
-**LukaPiljic/LukaPiljic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science (Informatics) B.Sc. student at the Technical University of Munich (TUM)** and work as a **Teaching Assistant** for core CS courses.
 
-Here are some ideas to get you started:
+### 🔭 What I'm focusing on
+- 🧠 **Machine Learning & Deep Learning**
+- 📊 **Data Science**: data analysis and visualization
+- 🔢 **Numerical Programming & Scientific Computing**
+- 🗄️ **Databases & Cloud**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🏫 Teaching
+Teaching Assistant at TUM for:
+- Numerical Programming
+- Databases
+- Computer Architecture Lab
+
+### 🌍 Erasmus+ Exchange: Universidad Politécnica de Madrid
+Two semesters of coursework in:
+- Concurrent & Advanced Programming
+- Software Architecture & Design
+- Web Development
+- Systems Administration
