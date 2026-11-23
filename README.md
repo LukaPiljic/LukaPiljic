@@ -21,4 +21,4 @@ Two semesters of coursework in:
 - Web Development
 - Systems Administration
 
-> 👀 **Looks a bit quiet here?** Most of my work is in private repositories (which I don't want to can't publish). I'm happy to walk you through it on request :) 
+> 👀 **Looks a bit quiet here?** Most of my work is in private repositories (which I don't want to or can't publish). I'm happy to walk you through it on request :) 
