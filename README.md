@@ -20,3 +20,5 @@ Two semesters of coursework in:
 - Software Architecture & Design
 - Web Development
 - Systems Administration
+
+> 👀 **Looks a bit quiet here?** Most of my work is in private repositories (which I don't want to can't publish). I'm happy to walk you through it on request :) 
